@@ -18,7 +18,7 @@
 
 
 ### Instructions
-The real-time demo of SGT-LLC was built on [rangenet-ros](https://github.com/Natsu-Akatsuki/RangeNet-TensorRT/tree/main) . Please refer to [rangenet-ros](https://github.com/Natsu-Akatsuki/RangeNet-TensorRT/tree/main) to configure the semantic segmentation environment and download the model in to `./model/`.
+The real-time demo of SGT-LLC was built on [rangenet-ros](https://github.com/Natsu-Akatsuki/RangeNet-TensorRT/tree/main) . Please refer to [rangenet-ros](https://github.com/Natsu-Akatsuki/RangeNet-TensorRT/tree/main) to configure the semantic segmentation environment and download the model into `./model/`.
 
 ### Dependencies
 
