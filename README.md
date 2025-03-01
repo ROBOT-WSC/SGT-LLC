@@ -32,7 +32,9 @@ The real-time demo of SGT-LLC was built on [rangenet-ros](https://github.com/Nat
 
 ### Compiling
 
-Create a catkin workspace, clone the `SGT-LLC`  repository into the `src` folder, and download the test [semantic segment model]() into `./SGT-LLC/model/`. Finally, Compile via the [`catkin_tools`](https://catkin-tools.readthedocs.io/en/latest/) package:
+Create a catkin workspace, clone the `SGT-LLC`  repository into the `src` folder, and download the test [semantic segment model](通过网盘分享的文件：segment model
+链接: https://pan.baidu.com/s/1dQsO2VxW7OrY5YligMcngw?pwd=xuk8 提取码: xuk8 
+--来自百度网盘超级会员v6的分享) into `./SGT-LLC/model/`. Finally, Compile via the [`catkin_tools`](https://catkin-tools.readthedocs.io/en/latest/) package:
 
 ```sh
 mkdir ws && cd ws && mkdir src && catkin init && cd src
