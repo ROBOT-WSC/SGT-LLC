@@ -1,5 +1,3 @@
-- [x] 
-
 # <div align = "center">SGT-LLC:</div>
 
 ## <div align = "center">LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology</div>
