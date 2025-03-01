@@ -1,0 +1,10 @@
+loop between429and265 match_num:36 match_score:0.782609 RANSAC_num:11 RANSAC_score:0.305556 inlen_num:1
+loop between430and271 match_num:37 match_score:0.725490 RANSAC_num:15 RANSAC_score:0.405405 inlen_num:9
+loop between431and270 match_num:30 match_score:0.666667 RANSAC_num:10 RANSAC_score:0.333333 inlen_num:10
+loop between432and268 match_num:34 match_score:0.739130 RANSAC_num:11 RANSAC_score:0.323529 inlen_num:5
+loop between435and261 match_num:30 match_score:0.714286 RANSAC_num:9 RANSAC_score:0.300000 inlen_num:5
+loop between436and261 match_num:24 match_score:0.545455 RANSAC_num:5 RANSAC_score:0.208333 inlen_num:1
+loop between437and259 match_num:16 match_score:0.363636 RANSAC_num:5 RANSAC_score:0.312500 inlen_num:4
+loop between438and263 match_num:18 match_score:0.382979 RANSAC_num:7 RANSAC_score:0.388889 inlen_num:4
+loop between439and254 match_num:21 match_score:0.437500 RANSAC_num:5 RANSAC_score:0.238095 inlen_num:1
+loop between440and250 match_num:22 match_score:0.468085 RANSAC_num:5 RANSAC_score:0.227273 inlen_num:1

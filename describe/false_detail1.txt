@@ -1,0 +1,4 @@
+loop between523and133 match_num:9 match_score:0.428571 RANSAC_num:4 RANSAC_score:0.444444 inlen_num:1
+loop between573and115 match_num:11 match_score:0.314286 RANSAC_num:4 RANSAC_score:0.363636 inlen_num:1
+loop between575and116 match_num:24 match_score:0.648649 RANSAC_num:5 RANSAC_score:0.208333 inlen_num:1
+loop between1583and582 match_num:7 match_score:0.280000 RANSAC_num:4 RANSAC_score:0.571429 inlen_num:3
